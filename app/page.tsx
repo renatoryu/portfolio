@@ -78,7 +78,7 @@ const skills = [
 
 const experiences = [
   {
-    period: 'DEZ 2025 — 30 AGO 2026',
+    period: 'DEZ 2025 — AGO 2026',
     role: 'Desenvolvedor Full-Stack (Pleno)',
     company: 'All Tax',
     summary: 'Aplicações fiscais de missão crítica e plataforma de ingestão, transformação e migração de dados para SAP S/4HANA.',
@@ -131,7 +131,7 @@ export default function Home() {
           <a href="#sobre">Sobre</a>
         </div>
         <div className="topbar-actions" aria-label="Perfis profissionais">
-          <a className="header-link" href="https://www.linkedin.com/in/renatoccz" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+          <a className="header-link" href="https://www.linkedin.com/in/renatocaetite" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
           <a className="header-link" href="https://github.com/renatoryu" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
         </div>
       </nav>
@@ -147,7 +147,7 @@ export default function Home() {
           </p>
           <div className="hero-actions">
             <a className="primary" href="#experiencia">Ver experiência <b>↓</b></a>
-            <a className="text-link" href="https://www.linkedin.com/in/renatoccz" target="_blank" rel="noopener noreferrer">Conhecer no LinkedIn <span>↗</span></a>
+            <a className="text-link" href="https://www.linkedin.com/in/renatocaetite" target="_blank" rel="noopener noreferrer">Conhecer no LinkedIn <span>↗</span></a>
           </div>
           <ul className="hero-proof" aria-label="Resultados profissionais em destaque">
             <li><strong>100 mil+</strong><span>interações mensais</span></li>
@@ -253,7 +253,7 @@ export default function Home() {
         </div>
 
         <a className="all-projects" href="https://github.com/renatoryu?tab=repositories" target="_blank" rel="noopener noreferrer">
-          Ver os 42 repositórios <span>GitHub ↗</span>
+          Ver o repositório <span>GitHub ↗</span>
         </a>
       </section>
 
@@ -340,7 +340,7 @@ export default function Home() {
         <h2>Vamos construir<br />algo que <em>funcione.</em></h2>
         <div className="contact-actions">
           <a href="mailto:renatocaetite@gmail.com?subject=Oportunidade%20profissional">Falar por e-mail <span>↗</span></a>
-          <a href="https://www.linkedin.com/in/renatoccz" target="_blank" rel="noopener noreferrer">Ver LinkedIn <span>↗</span></a>
+          <a href="https://www.linkedin.com/in/renatocaetite" target="_blank" rel="noopener noreferrer">Ver LinkedIn <span>↗</span></a>
         </div>
       </section>
 

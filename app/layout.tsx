@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
 
-const siteOrigin = 'https://renato-caetite-cruz.renatoryuu.chatgpt.site';
+const siteOrigin = 'https://renatoryu.github.io/portfolio';
 const title = 'Renato Caetité Cruz | Desenvolvedor Full-Stack C# & .NET';
 const description = 'Desenvolvedor Full-Stack em São Paulo com 4+ anos de experiência e especialização em C#, .NET, ASP.NET Core, APIs REST, SQL Server e React.';
 
@@ -24,7 +24,7 @@ const structuredData = {
     { '@type': 'EducationalOrganization', name: 'ETEC Jardim Ângela' },
   ],
   knowsAbout: ['C#', '.NET 10', 'ASP.NET Core', 'Entity Framework Core', 'Clean Architecture', 'REST APIs', 'SQL Server', 'React', 'TypeScript', 'Docker', 'GitHub Actions'],
-  sameAs: ['https://www.linkedin.com/in/renatoccz', 'https://github.com/renatoryu'],
+  sameAs: ['https://www.linkedin.com/in/renatocaetite', 'https://github.com/renatoryu'],
 };
 
 export const metadata: Metadata = {
@@ -67,7 +67,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="pt-BR">
       <head>
-        <link rel="me" href="https://www.linkedin.com/in/renatoccz" />
+        <link rel="me" href="https://www.linkedin.com/in/renatocaetite" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
       </head>
       <body>{children}</body>

@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://renato-caetite-cruz.renatoryuu.chatgpt.site">Ver portfólio</a>
+  <a href="https://renatoryu.github.io/portfolio/">Ver portfólio</a>
   ·
-  <a href="https://www.linkedin.com/in/renatoccz">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/renatocaetite">LinkedIn</a>
   ·
   <a href="https://github.com/renatoryu/flowdesk">FlowDesk</a>
 </p>
@@ -47,7 +47,7 @@ O [FlowDesk](https://github.com/renatoryu/flowdesk) é uma plataforma operaciona
 - Vinext e Vite.
 - CSS responsivo e acessível.
 - Open Graph, dados estruturados e otimização para compartilhamento.
-- Hospedagem com OpenAI Sites.
+- Hospedagem com GitHub Pages.
 
 ## IA como apoio, autoria como direção
 
