@@ -1,0 +1,12 @@
+/node_modules
+/.next/
+/.vinext/
+/out/
+/dist/
+/.wrangler/
+.DS_Store
+*.pem
+*.log
+.env*
+next-env.d.ts
+/.package-profile/
